@@ -1,0 +1,5 @@
+QuoteMe!
+Press button
+Gives inspiritonal/motivational quotes
+Save favourite quotes
+Continualy get quotes (button when on quote screen)
